@@ -1,17 +1,46 @@
-<<<<<<< HEAD
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🎨 animted-react-app
 
-Currently, two official plugins are available:
+> Practicing React and 3D animation with Tailwind CSS and GSAP
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a front-end project built using **React**, **Tailwind CSS**, and **GSAP**. It focuses on interactive 3D animations and smooth UI transitions.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# animted-react-app
-Practicing React and 3d Application with tailwind css and gsap 
->>>>>>> 481bf3bfae7ef9ed155499acd10d3705e621466b
+## 🚀 Features
+
+- ⚛️ Built with React (Vite/CRA)
+- 🌈 Tailwind CSS for fast and responsive UI
+- ✨ GSAP animations for smooth effects
+- 🧩 Reusable components
+- 📱 Fully responsive design
+- 🔧 Easy to customize
+
+---
+
+## 📸 Screenshots
+
+> _Add screenshots of your UI here_
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech           | Description                      |
+|----------------|----------------------------------|
+| React          | JavaScript UI library            |
+| Tailwind CSS   | Utility-first CSS framework      |
+| GSAP           | Animation library for JavaScript |
+
+
+
+---
+
+## 📦 Installation
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/subhamlenka-hub/animted-react-app.git
+cd animted-react-app
+npm install
