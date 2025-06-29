@@ -20,7 +20,9 @@ This is a front-end project built using **React**, **Tailwind CSS**, and **GSAP*
 
 ## 📸 Screenshots
 
-> _Add screenshots of your UI here_
+![image](https://github.com/user-attachments/assets/b1f813f0-45f3-4c24-b02b-4fad1293103c)
+
+
 
 ---
 
