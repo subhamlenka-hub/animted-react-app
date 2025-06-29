@@ -1,7 +1,7 @@
 
 # 🎨 animted-react-app
 
-> Practicing React and 3D animation with Tailwind CSS and GSAP
+> Practicing React and 3D animation with Tailwind CSS and GSAP (This Project I Have Done From JavaScript Mastery YouTube Video)
 
 This is a front-end project built using **React**, **Tailwind CSS**, and **GSAP**. It focuses on interactive 3D animations and smooth UI transitions.
 
